@@ -1,4 +1,4 @@
-# Dipanjan-Basak-s-AI-Powered-Portfolio-V2
+# My-AI-Powered-Portfolio-V2
 
 Welcome to Dipanjan Basak's AI-Powered Portfolio V2! This is an upgraded version of my personal portfolio website, showcasing my expertise as a Generative AI Engineer and Full Stack Developer. Built with a focus on modern design, interactivity, and AI-driven features, this web app highlights my projects, skills, and achievements in AI, data analytics, and web development.
 Overview
