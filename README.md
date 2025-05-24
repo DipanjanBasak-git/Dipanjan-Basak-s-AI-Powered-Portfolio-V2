@@ -1,5 +1,6 @@
 # Dipanjan-Basak-s-AI-Powered-Portfolio-V2
 
+Dipanjan Basak's AI-Powered Portfolio V2
 Welcome to Dipanjan Basak's AI-Powered Portfolio V2! This is an upgraded version of my personal portfolio website, showcasing my expertise as a Generative AI Engineer and Full Stack Developer. Built with a focus on modern design, interactivity, and AI-driven features, this web app highlights my projects, skills, and achievements in AI, data analytics, and web development.
 Overview
 This portfolio is a dynamic, responsive web application featuring an AI-powered chatbot, smooth animations, and a professional interface. It serves as a comprehensive showcase of my technical skills, research contributions, and passion for creating impactful, user-focused solutions at the intersection of AI and full-stack development.
@@ -82,9 +83,12 @@ Click social media icons in the Contact section to connect via email, GitHub, or
 Explore project links to view source code on GitHub or live demos (where available).
 
 Screenshots
-Home section with profile picture and animated typing effect.
+Home Section
+Home section with profile picture, animated typing effect, and Particles.js background.
+Chatbot Section
 AI-powered chatbot interface with interactive messaging.
-Projects section showcasing the SuperStore Power BI Dashboard.
+Projects Section
+Projects section showcasing key works like the SuperStore Power BI Dashboard and LifeLogix Health App.
 Contributing
 This is a personal portfolio project, so contributions are not actively sought. However, feel free to fork the repository and customize it for your own use. If you have suggestions or find issues, please open an issue on GitHub.
 License
