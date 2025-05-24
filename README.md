@@ -21,6 +21,25 @@ Contact Integration: Social links to email, GitHub, and LinkedIn, with a clipboa
 
 Enhanced Navigation: Sticky navbar with active link indicators, a back-to-top button, and a scroll progress bar for intuitive browsing.
 
+## Screenshots
+
+Home Section --
+![Screenshot 2025-05-24 185726](https://github.com/user-attachments/assets/4ff6eb94-509e-477a-a0bf-ebaada36fb52)
+
+Home section with profile picture, animated typing effect, and Particles.js background.
+
+Chatbot Section -- 
+
+![Screenshot 2025-05-24 185758](https://github.com/user-attachments/assets/4867ac1b-bab8-4a96-a855-8ad0d526c7fe)
+
+AI-powered chatbot interface with interactive messaging.
+
+Projects Section -- 
+
+![Screenshot 2025-05-24 185745](https://github.com/user-attachments/assets/56fb9771-c0fb-40c3-9eea-7529fd7ba233)
+
+Projects section showcasing key works like the SuperStore Power BI Dashboard and LifeLogix Health App.
+
 
 ## Technologies Used
 
@@ -67,10 +86,6 @@ Initialize Firebase Hosting:firebase init hosting
 
 Deploy the project:firebase deploy
 
-
-
-
-
 ## Running Locally
 
 Open index.html in a browser to explore the portfolio.
@@ -91,18 +106,8 @@ Click social media icons in the Contact section to connect via email, GitHub, or
 
 Explore project links to view source code on GitHub or live demos (where available).
 
-## Screenshots
 
-Home Section
-Home section with profile picture, animated typing effect, and Particles.js background.
-
-Chatbot Section
-AI-powered chatbot interface with interactive messaging.
-
-Projects Section
-Projects section showcasing key works like the SuperStore Power BI Dashboard and LifeLogix Health App.
-
-Contributing
+## Contributing
 This is a personal portfolio project, so contributions are not actively sought. However, feel free to fork the repository and customize it for your own use. If you have suggestions or find issues, please open an issue on GitHub.
 
 
