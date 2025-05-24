@@ -91,8 +91,10 @@ Deploy the project:firebase deploy
 Open index.html in a browser to explore the portfolio.
 For full chatbot functionality (e.g., with Gemini API), set up a Node.js backend with appropriate API keys and configure Firebase hosting. Refer to the AI-Powered Chatbot repository for backend details.
 
-Project Structure
+## Project Structure
+
 DipanjanBasak-PortfolioV2/
+
 ├── index.html        # Main HTML file with all sections and JavaScript
 ├── README.md         # This file
 
