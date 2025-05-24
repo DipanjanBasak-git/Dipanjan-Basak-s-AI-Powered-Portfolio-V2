@@ -96,6 +96,7 @@ For full chatbot functionality (e.g., with Gemini API), set up a Node.js backend
 DipanjanBasak-PortfolioV2/
 
 ├── index.html        # Main HTML file with all sections and JavaScript
+
 ├── README.md         # This file
 
 ## Usage
