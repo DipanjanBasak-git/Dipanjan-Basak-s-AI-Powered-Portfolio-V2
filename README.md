@@ -84,8 +84,11 @@ DipanjanBasak-PortfolioV2/
 ## Usage
 
 Navigate through sections (Home, About, Education, Experience, Projects, Publications, Skills, Achievements, Chatbot, Contact) using the sticky navbar.
+
 Interact with the AI chatbot in the "Talk to My AI Assistant" section to learn more about my skills, projects, and experience.
+
 Click social media icons in the Contact section to connect via email, GitHub, or LinkedIn.
+
 Explore project links to view source code on GitHub or live demos (where available).
 
 ## Screenshots
@@ -103,9 +106,10 @@ Contributing
 This is a personal portfolio project, so contributions are not actively sought. However, feel free to fork the repository and customize it for your own use. If you have suggestions or find issues, please open an issue on GitHub.
 
 
-Email: www.dipanjanbasak@gmail.com
-GitHub: DipanjanBasak-git
-LinkedIn: Dipanjan Basak
+Email: www.dipanjanbasak@gmail.com 
 
+GitHub: https://github.com/DipanjanBasak-git
+
+LinkedIn: https://www.linkedin.com/in/dipanjan-basak-49bb59280/
 
  Created by Dipanjan Basak © 2025
