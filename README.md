@@ -5,14 +5,22 @@ Overview
 This portfolio is a dynamic, responsive web application featuring an AI-powered chatbot, smooth animations, and a professional interface. It serves as a comprehensive showcase of my technical skills, research contributions, and passion for creating impactful, user-focused solutions at the intersection of AI and full-stack development.
 Features
 
-Modern & Responsive Design: Crafted with Tailwind CSS and custom animations for a seamless experience across devices.
+Modern & Responsive Design: Crafted with Tailwind CSS and custom animations for a seamless experience across devices. 
+
 AI-Powered Chatbot: Integrated with the Google Gemini API, featuring PDF parsing and persistent chat history for interactive user engagement.
+
 Dynamic Animations: Includes Particles.js effects, typing animations, scroll-triggered fade-ins, and tilt effects on project cards.
+
 Project Showcase: Highlights key projects like the SuperStore Power BI Dashboard, Amazon Sales Dashboard, LifeLogix Health App, and an AI-powered chatbot, with GitHub links and screenshots.
+
 Skills Visualization: Interactive skill bars showcasing proficiency in HTML, CSS, JavaScript, React, Node.js, Firebase, Power BI, Generative AI, and more.
+
 Publications & Achievements: Features my IEEE-indexed research paper on autism detection and NPTEL certifications in Strategic Sales Management and OOP.
+
 Contact Integration: Social links to email, GitHub, and LinkedIn, with a clipboard-copy feature for easy contact.
+
 Enhanced Navigation: Sticky navbar with active link indicators, a back-to-top button, and a scroll progress bar for intuitive browsing.
+
 
 ## Technologies Used
 
